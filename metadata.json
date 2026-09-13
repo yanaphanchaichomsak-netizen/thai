@@ -1,0 +1,6 @@
+{
+  "name": "เกมตอบคำถามคำทับศัพท์",
+  "description": "เว็บแอปพลิเคชันเกมตอบคำถามวิชาภาษาไทย เรื่อง คำทับศัพท์ 20 ข้อ ตามหลักเกณฑ์สำนักงานราชบัณฑิตยสภา พร้อมเฉลยและคำอธิบายละเอียด",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
